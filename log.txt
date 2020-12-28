@@ -1,0 +1,85 @@
+000 (060.000.000) 12/14 17:39:55 Job submitted from host: <155.230.152.58:9618?addrs=155.230.152.58-9618&noUDP&sock=6777_096b_4>
+...
+001 (060.000.000) 12/14 17:39:57 Job executing on host: <10.148.0.1:9618?addrs=10.148.0.1-9618&noUDP&sock=4445_7a8f_3>
+...
+007 (060.000.000) 12/14 17:39:57 Shadow exception!
+	Error from slot1@node01: Failed to execute '/var/lib/condor/execute/dir_26804/condor_exec.exe': (errno=8: 'Exec format error')
+	0  -  Run Bytes Sent By Job
+	502  -  Run Bytes Received By Job
+...
+012 (060.000.000) 12/14 17:39:57 Job was held.
+	Error from slot1@node01: Failed to execute '/var/lib/condor/execute/dir_26804/condor_exec.exe': (errno=8: 'Exec format error')
+	Code 6 Subcode 8
+...
+000 (061.000.000) 12/14 17:40:39 Job submitted from host: <155.230.152.58:9618?addrs=155.230.152.58-9618&noUDP&sock=6777_096b_4>
+...
+001 (061.000.000) 12/14 17:40:40 Job executing on host: <10.148.0.1:9618?addrs=10.148.0.1-9618&noUDP&sock=4445_7a8f_3>
+...
+007 (061.000.000) 12/14 17:40:41 Shadow exception!
+	Error from slot1@node01: Failed to execute '/var/lib/condor/execute/dir_26832/condor_exec.exe': (errno=8: 'Exec format error')
+	0  -  Run Bytes Sent By Job
+	537  -  Run Bytes Received By Job
+...
+012 (061.000.000) 12/14 17:40:41 Job was held.
+	Error from slot1@node01: Failed to execute '/var/lib/condor/execute/dir_26832/condor_exec.exe': (errno=8: 'Exec format error')
+	Code 6 Subcode 8
+...
+000 (062.000.000) 12/14 17:41:28 Job submitted from host: <155.230.152.58:9618?addrs=155.230.152.58-9618&noUDP&sock=6777_096b_4>
+...
+001 (062.000.000) 12/14 17:41:30 Job executing on host: <10.148.0.1:9618?addrs=10.148.0.1-9618&noUDP&sock=4445_7a8f_3>
+...
+007 (062.000.000) 12/14 17:41:30 Shadow exception!
+	Error from slot1@node01: Failed to execute '/var/lib/condor/execute/dir_26848/condor_exec.exe': (errno=8: 'Exec format error')
+	0  -  Run Bytes Sent By Job
+	537  -  Run Bytes Received By Job
+...
+012 (062.000.000) 12/14 17:41:30 Job was held.
+	Error from slot1@node01: Failed to execute '/var/lib/condor/execute/dir_26848/condor_exec.exe': (errno=8: 'Exec format error')
+	Code 6 Subcode 8
+...
+000 (063.000.000) 12/14 17:42:32 Job submitted from host: <155.230.152.58:9618?addrs=155.230.152.58-9618&noUDP&sock=6777_096b_4>
+...
+001 (063.000.000) 12/14 17:42:51 Job executing on host: <10.148.0.1:9618?addrs=10.148.0.1-9618&noUDP&sock=4445_7a8f_3>
+...
+006 (063.000.000) 12/14 17:42:51 Image size of job updated: 1
+	0  -  MemoryUsage of job (MB)
+	0  -  ResidentSetSize of job (KB)
+...
+005 (063.000.000) 12/14 17:42:51 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	30  -  Run Bytes Sent By Job
+	321  -  Run Bytes Received By Job
+	30  -  Total Bytes Sent By Job
+	321  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :                 1         1 
+	   Disk (KB)            :        9        3   7264551 
+	   Memory (MB)          :        0        1      2012 
+...
+000 (064.000.000) 12/28 12:38:51 Job submitted from host: <155.230.152.58:9618?addrs=155.230.152.58-9618&noUDP&sock=6777_096b_4>
+...
+001 (064.000.000) 12/28 12:38:53 Job executing on host: <10.148.0.1:9618?addrs=10.148.0.1-9618&noUDP&sock=4445_7a8f_3>
+...
+006 (064.000.000) 12/28 12:38:53 Image size of job updated: 1
+	0  -  MemoryUsage of job (MB)
+	0  -  ResidentSetSize of job (KB)
+...
+005 (064.000.000) 12/28 12:38:53 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	30  -  Run Bytes Sent By Job
+	323  -  Run Bytes Received By Job
+	30  -  Total Bytes Sent By Job
+	323  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :                 1         1 
+	   Disk (KB)            :        9        3   7264551 
+	   Memory (MB)          :        0        1      2012 
+...

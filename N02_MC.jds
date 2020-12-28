@@ -1,0 +1,11 @@
+Executable      = N02_MC.sh
+Universe	= vanilla
+
+output   = condorOut_\$(Process).out
+error    = condorErr_\$(Process).err
+Log			= log.txt
+
+should_transfer_files = YES
+when_to_transfer_output = ON_EXIT
+transfer_input_files = N02_MC.py,N02_MC.sh
+queue 1
